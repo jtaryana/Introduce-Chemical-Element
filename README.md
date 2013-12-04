@@ -1,4 +1,4 @@
-# Making-Introduction-about-my-hometown
+# Make-Introduction-about-my-hometown
 ## MAKER PARTY,social,small-team,communication
 This document is made by [gitfab](http://gitfab.org)
 ---
@@ -37,24 +37,24 @@ Kind of Video conference system is useful to communicate and share outputs.
 ---
 #Procedure -Advanced-
 *Before using Thimble, students need to research their own hometown. 
-<br>In addition, it is better to collect not only information, but also pictures, video. 
-<br>cf. Culture, Tradition, Climate, Food, etc.
+In addition, it is better to collect not only information, but also pictures, video. 
+cf. Culture, Tradition, Climate, Food, etc.
 
 
 Step1
-<br>Go to [Thimble](https://thimble.webmaker.org/en-US) site
+Go to [Thimble](https://thimble.webmaker.org/en-US) site
 
 Step2
-<br>Think about website image, layout and how to introduce.
+Think about website image, layout and how to introduce.
 
 Step3
-<br>Write various html, style,etc on the left space.
-<br>Working image are indicated on the right one.
-<br>* If you have a experience like making website, you may be able to do it easier.
+Write various html, style,etc on the left space.
+Working image are indicated on the right one.
+* If you have a experience like making website, you may be able to do it easier.
 
 Step4
-<br>Making a presentation for introduction for others  *included other sites.
-<br>In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
+Making a presentation for introduction for others  *included other sites.
+In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
 
 
  
@@ -68,19 +68,19 @@ Step4
 
 \#Procedure
 *Before using Thimble, students need to research their own hometown. 
-<br>In addition, it is better to collect not only information, but also pictures, video. 
-<br>cf. Culture, Tradition, Climate, Food, etc.
+In addition, it is better to collect not only information, but also pictures, video. 
+cf. Culture, Tradition, Climate, Food, etc.
 
 Step1
-<br>Go to [Thimble](https://thimble.webmaker.org/en-US) site
+Go to [Thimble](https://thimble.webmaker.org/en-US) site
 
 Step2
-<br>Think about website image, layout and how to introduce.
+Think about website image, layout and how to introduce.
 
 Step3
-<br>Write various html, style,etc on the left space.
-<br>Working image are indicated on the right one.
-<br>* If you have a experience like making website, you may be able to do it easier.
+Write various html, style,etc on the left space.
+Working image are indicated on the right one.
+* If you have a experience like making website, you may be able to do it easier.
 
 
 ---
