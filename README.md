@@ -74,6 +74,7 @@ Step2
 Step3
 <br>Write various html, style,etc on the left space.
 Working image are indicated on the right one.
+<br> Do not forget to click "publish" button at the end.
 <br>* If you have a experience like making website, you may be able to do it easier.
 
 Step4
