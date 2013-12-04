@@ -20,8 +20,20 @@ In this activity, students can see, know and learn about basic web-structure thr
 *Thimble makes it ridiculously simple to create and share your own web pages. Write and edit HTML and CSS right in your browser, then instantly preview your work. Host and share your finished projects with a single click. Perfect for beginners and experts alike.
 ---
 #Educational Effect / Learning skills
+* Thinking about web-structure
+* Remixing information from others with own creativity
+* Deep knowledge about their own hometown
+* Presentation and Communication
+* Media literacy
+
 ---
 #Item/Material/System
+* PC *latest [Firefox](http://www.mozilla.jp/firefox/) is installed
+* [Thimble](https://thimble.webmaker.org/en-US)
+* Mic and screen for presentation
+
+*If you connect to the other sites...
+Kind of Video conference system is useful to communicate and share outputs.
 ---
 #Procedure
 ---
