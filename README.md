@@ -42,19 +42,19 @@ cf. Culture, Tradition, Climate, Food, etc.
 
 
 Step1
-Go to [Thimble](https://thimble.webmaker.org/en-US) site
+<br>Go to [Thimble](https://thimble.webmaker.org/en-US) site
 
 Step2
-Think about website image, layout and how to introduce.
+<br>Think about website image, layout and how to introduce.
 
 Step3
-Write various html, style,etc on the left space.
-Working image are indicated on the right one.
-* If you have a experience like making website, you may be able to do it easier.
+<br>Write various html, style,etc on the left space.
+<br>Working image are indicated on the right one.
+<br>* If you have a experience like making website, you may be able to do it easier.
 
 Step4
-Making a presentation for introduction for others  *included other sites.
-In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
+<br>Making a presentation for introduction for others  *included other sites.
+<br>In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
 
 
  
