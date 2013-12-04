@@ -89,6 +89,11 @@ In addition, students can see outputs from each PC ("[search Makes" form](https:
 
 ![スクリーンショット 2013-12-04 15.26.25.png](https://raw.github.com/bozzziy/Making-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 15.26.25.png)
 
+
+
+---
+#Working space
+
 ![スクリーンショット 2013-12-04 14.51.40.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 14.51.40.png)
 ---
 #Sample
