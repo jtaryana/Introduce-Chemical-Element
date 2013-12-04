@@ -37,7 +37,7 @@ Kind of Video conference system is useful to communicate and share outputs.
 ---
 #Procedure -Beginner-
 *Before using Thimble, students need to research their own hometown. 
-In addition, it is better to collect not only information, but also pictures, video. 
+<br>In addition, it is better to collect not only information, but also pictures, video. 
 cf. Culture, Tradition, Climate, Food, etc.
 
 Step1
@@ -52,7 +52,7 @@ Step3
 
 Step4
 <br>Making a presentation for introduction for others  *included other sites.
-<br>In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
+In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
  
 
 
@@ -61,7 +61,7 @@ Step4
 ---
 #Procedure -Advanced-
 *Before using Thimble, students need to research their own hometown. 
-In addition, it is better to collect not only information, but also pictures, video. 
+<br>In addition, it is better to collect not only information, but also pictures, video. 
 cf. Culture, Tradition, Climate, Food, etc.
 
 
@@ -73,12 +73,12 @@ Step2
 
 Step3
 <br>Write various html, style,etc on the left space.
-<br>Working image are indicated on the right one.
+Working image are indicated on the right one.
 <br>* If you have a experience like making website, you may be able to do it easier.
 
 Step4
 <br>Making a presentation for introduction for others  *included other sites.
-<br>In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
+In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
 
 
  
@@ -87,4 +87,13 @@ Step4
 
 
 ![スクリーンショット 2013-12-04 15.26.25.png](https://raw.github.com/bozzziy/Making-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 15.26.25.png)
+
+![スクリーンショット 2013-12-04 14.51.40.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 14.51.40.png)
+---
+#Sample
+
+URL: [Tokyo ](https://hironieee.makes.org/thimble/classrecipe-for-thimble)by Hiromi
+
+
+![スクリーンショット 2013-12-04 15.48.00.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 15.48.00.png)
 ---
