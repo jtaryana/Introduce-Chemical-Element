@@ -59,6 +59,15 @@ In addition, students can see outputs from each PC ("[search Makes" form](https:
 
 ![スクリーンショット 2013-12-04 14.53.24.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 14.53.24.png)
 ---
+#Sample
+
+URL: [Tokyo ](https://hironieee.makes.org/thimble/classrecipe-for-thimble)by Hiromi
+
+
+
+
+![スクリーンショット 2013-12-04 15.48.00.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 15.48.00.png)
+---
 #Procedure -Advanced-
 *Before using Thimble, students need to research their own hometown. 
 In addition, it is better to collect not only information, but also pictures, video. 
@@ -95,13 +104,4 @@ In addition, students can see outputs from each PC ("[search Makes" form](https:
 #Working space
 
 ![スクリーンショット 2013-12-04 14.51.40.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 14.51.40.png)
----
-#Sample
-
-URL: [Tokyo ](https://hironieee.makes.org/thimble/classrecipe-for-thimble)by Hiromi
-
-
-
-
-![スクリーンショット 2013-12-04 15.48.00.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 15.48.00.png)
 ---
