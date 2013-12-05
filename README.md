@@ -1,5 +1,5 @@
 # Make-Introduction-about-my-hometown
-## MAKER PARTY,social,small-team,communication
+## MAKER PARTY, Thimble, Remix
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
@@ -41,17 +41,17 @@ In addition, it is better to collect not only information, but also pictures, vi
 cf. Culture, Tradition, Climate, Food, etc.
 
 Step1
-Go to [Thimble](https://thimble.webmaker.org/en-US)  site, and click "[Remix a make](https://webmaker.org/en-US/tools)"
+<br>Go to [Thimble](https://thimble.webmaker.org/en-US)  site, and click "[Remix a make](https://webmaker.org/en-US/tools)"
 
 Step2
-Collect a work which they like from various works, click "Remix"
+<br>Collect a work which they like from various works, click "Remix"
 
 
 Step3
-They can change each code on the left space, and see working image on the right.
+<br>They can change each code on the left space, and see working image on the right.
 
 Step4
-Making a presentation for introduction for others  *included other sites.
+<br>Making a presentation for introduction for others  *included other sites.
 In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
  
 
@@ -66,19 +66,19 @@ cf. Culture, Tradition, Climate, Food, etc.
 
 
 Step1
-Go to [Thimble](https://thimble.webmaker.org/en-US) site
+<br>Go to [Thimble](https://thimble.webmaker.org/en-US) site
 
 Step2
-Think about website image, layout and how to introduce.
+<br>Think about website image, layout and how to introduce.
 
 Step3
-Write various html, style,etc on the left space.
+<br>Write various html, style,etc on the left space.
 Working image are indicated on the right one.
  Do not forget to click "publish" button at the end.
 * If you have a experience like making website, you may be able to do it easier.
 
 Step4
-Making a presentation for introduction for others  *included other sites.
+<br>Making a presentation for introduction for others  *included other sites.
 In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
 
 
