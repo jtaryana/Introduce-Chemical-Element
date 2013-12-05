@@ -88,7 +88,7 @@ Working image are indicated on the right one.
 
 Step4
 Making a presentation for introduction for others  *included other sites.
-In addition, students can see outputs from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
+In addition, students can see works from each PC ("[search Makes" form](https://webmaker.org/en-US/tools))
 
 
  
