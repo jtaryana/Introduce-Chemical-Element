@@ -41,7 +41,7 @@ In addition, it is better to collect not only information, but also pictures, vi
 cf. Culture, Tradition, Climate, Food, etc.
 
 Step1
-Go to [Thimble](https://thimble.webmaker.org/en-US)  site, and click "[Remix a make](https://webmaker.org/en-US/tools)"
+Go to [Thimble](https://webmaker.org/en-US/tools)  site, and click "[Remix a make](https://webmaker.org/en-US/tools)"
 
 Step2
 Collect a work which they like from various works, click "Remix"
