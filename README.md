@@ -1,12 +1,12 @@
-# Introduce-my-hometown
+# Introduce-Chemical-Element
 ## MAKER PARTY, Thimble, Remix
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Overall
-In this activity, students can see, know and learn about basic web-structure through making introduction about their hometown with "Thimble*"
+In this activity, students can see, know and learn about basic web-structure through making introduction about chemical elements with "Thimble*"
 If you do not know how to do from the first to make website, it is no problem !
 Because they can also remix various templates and works on Thimble.
-So, they enjoy web and introduction about their hometown both at once.
+So, they enjoy web and introduction about chemical elements both at once.
 
 
 
@@ -15,13 +15,13 @@ So, they enjoy web and introduction about their hometown both at once.
 #Educational Effect / Learning skills
 * Thinking about web-structure
 * Remixing information from others with own creativity
-* Deep knowledge about their own hometown
+* Deep knowledge about chemical elements
 * Presentation and Communication
 * Media literacy
 
 ---
 #Target
-Elementary(6-12) ~ Junior high(12-15)
+Senior High School (15-17)
 ---
 #Scale
 1 classroom(~30) or small team(4-5) × multiple sites(~10)
@@ -36,9 +36,8 @@ Elementary(6-12) ~ Junior high(12-15)
 Kind of Video conference system is useful to communicate and share outputs.
 ---
 #Procedure -Beginner-
-*Before using Thimble, students need to research their own hometown. 
+*Before using Thimble, students need to research about  chemical elements  introduced by they. 
 In addition, it is better to collect not only information, but also pictures, video. 
-cf. Culture, Tradition, Climate, Food, etc.
 
 Step1
 Go to [Thimble](https://webmaker.org/en-US/tools)  site, and click "[Remix a make](https://webmaker.org/en-US/tools)"
@@ -61,12 +60,13 @@ In addition, students can see outputs from each PC ("[search Makes" form](https:
 ---
 #Sample
 
-URL: [Tokyo ](https://hironieee.makes.org/thimble/classrecipe-for-thimble)by Hiromi
+URL: [Unsur Kimia ](https://jajang_taryana.makes.org/thimble/classrecipe-for-thimble) by jajang
 
 
 
 
-![スクリーンショット 2013-12-04 15.48.00.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 15.48.00.png)
+
+![Unsur Kimia 2013-12-04 15.48.00.png](https://jajang_taryana.makes.org/thimble/classrecipe-for-thimble)
 ---
 #Procedure -Advanced-
 *Before using Thimble, students need to research their own hometown. 
