@@ -13,10 +13,9 @@ So, they enjoy web and introduction about chemical elements both at once.
 *Thimble makes it ridiculously simple to create and share your own web pages. Write and edit HTML and CSS right in your browser, then instantly preview your work. Host and share your finished projects with a single click. Perfect for beginners and experts alike.
 ---
 #Educational Effect / Learning skills
-* Thinking about web-structure
-* Remixing information from others with own creativity
+* Student Thinking about web-structure
 * Deep knowledge about chemical elements
-* Presentation and Communication
+* Student can Presentation and Communication
 * Media literacy
 
 ---
@@ -62,11 +61,6 @@ In addition, students can see outputs from each PC ("[search Makes" form](https:
 
 URL: [Unsur Kimia ](https://jajang_taryana.makes.org/thimble/classrecipe-for-thimble) by jajang
 
-
-
-
-
-![Unsur Kimia 2013-12-04 15.48.00.png](https://jajang_taryana.makes.org/thimble/classrecipe-for-thimble)
 ---
 #Procedure -Advanced-
 *Before using Thimble, students need to research their own hometown. 
@@ -100,8 +94,4 @@ In addition, students can see works from each PC ("[search Makes" form](https://
 
 
 
----
-#Working space
-
-![スクリーンショット 2013-12-04 14.51.40.png](https://raw.github.com/bozzziy/Make-Introduction-about-my-hometown/master/gitfab/resources/スクリーンショット 2013-12-04 14.51.40.png)
 ---
