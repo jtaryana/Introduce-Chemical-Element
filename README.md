@@ -59,8 +59,7 @@ In addition, students can see outputs from each PC ("[search Makes" form](https:
 ---
 #Sample
 
-URL: [Unsur Kimia ](https://jajang_taryana.makes.org/thimble/classrecipe-for-thimble) by jajang
-
+URL: [Chemical Element](https://jajang_taryana.makes.org/thimble/classrecipe-for-thimble) by jajang
 ---
 #Procedure -Advanced-
 *Before using Thimble, students need to research their own hometown. 
